@@ -1,1 +1,1 @@
-# Kaggle-in-class-competition
+<p align="center">Kaggle-in-class-competition</p>
