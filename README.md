@@ -2,11 +2,11 @@
 ## Programming languages
 Python 3 in jupyter notebook
 ## Required packages
-*item numpy
-*item pandas
-*item xgboost
-*item datetime
-*item matplotlib.pyplot
-*item matplotlib.ticker
+* numpy
+* pandas
+* xgboost
+* datetime
+* matplotlib.pyplot
+* matplotlib.ticker
 ## How to run it 
 
