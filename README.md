@@ -9,4 +9,4 @@ Python 3 in jupyter notebook
 * matplotlib.pyplot
 * matplotlib.ticker
 ## How to run it
-Upload the folder Code to the jupyter nodebook, open the file model.ipynb, and run the cells in the file.
+Upload the folder Kaggle-in-class-competition to the jupyter nodebook, open the file model.ipynb, and run the cells in the file.
