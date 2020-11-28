@@ -3,11 +3,10 @@
 Python 3 in jupyter notebook
 ## Required packages
 *item numpy
-pandas
-xgboost
-datetime
-matplotlib.pyplot
+*item pandas
+*item xgboost
+*item datetime
+*item matplotlib.pyplot
 *item matplotlib.ticker
-
 ## How to run it 
 
