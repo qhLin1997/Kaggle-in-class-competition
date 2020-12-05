@@ -2,11 +2,17 @@
 ## Programming languages
 Python 3 in jupyter notebook
 ## Required packages
+* requests
 * numpy
 * pandas
-* xgboost (conda install py-xgboost)
-* datetime
+* xgboost
+* seaborn
 * matplotlib.pyplot
-* matplotlib.ticker
+* statsmodels.api
+* scipy
+* datetime
+* bs4
+* sklearn.model_selection
+* statsmodels.tsa.seasonal
 ## How to run it
 Upload the folder Kaggle-in-class-competition to the jupyter nodebook, open the file model.ipynb, and run the cells in the file.
